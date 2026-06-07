@@ -8,7 +8,7 @@
 
 MSc student in **Computer Engineering** at the University of Salerno, specializing in **Software Enterprise Architectures**.
 
-I build things that bridge theory and practice — from designing layered Java architectures to wiring up embedded systems on the weekend. I care about understanding how things work at every level of the stack, not just making them run.
+I build things that bridge theory and practice — from designing layered architectures to wiring up embedded systems on the weekend. I care about understanding how things work at every level of the stack, not just making them run.
 
 > *Turning equations into applications, one project at a time.*
 
@@ -18,7 +18,7 @@ I build things that bridge theory and practice — from designing layered Java a
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,c,mysql,docker,git,linux,arduino&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,java,mysql,docker,git,arduino,stm&perline=8)](https://skillicons.dev)
 
 </div>
 
