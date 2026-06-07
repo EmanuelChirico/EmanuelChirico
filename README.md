@@ -27,12 +27,8 @@ I build things that bridge theory and practice — from designing layered archit
 ## 📊 GitHub stats
 
 <div align="center">
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EmanuelChirico&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelChirico&layout=compact&theme=default&hide_border=true&langs_count=6" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=EmanuelChirico&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EmanuelChirico&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EmanuelChirico&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
 
 ---
