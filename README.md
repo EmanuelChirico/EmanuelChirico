@@ -18,7 +18,7 @@ I build things that bridge theory and practice — from designing layered archit
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=c,python,java,mysql,docker,git,arduino,matlab,stm&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,java,mysql,docker,git,arduino,matlab,chibiosstm&perline=8)](https://skillicons.dev)
 
 </div>
 
